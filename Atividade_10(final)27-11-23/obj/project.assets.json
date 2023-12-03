@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\josue\\.nuget\\packages\\": {}
+    "C:\\Users\\roberto\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\IFSP\\ED2I4\\Atividade22-01-05\\Atividade22-01-05.csproj",
-      "projectName": "Atividade22-01-05",
-      "projectPath": "D:\\IFSP\\ED2I4\\Atividade22-01-05\\Atividade22-01-05.csproj",
-      "packagesPath": "C:\\Users\\josue\\.nuget\\packages\\",
-      "outputPath": "D:\\IFSP\\ED2I4\\Atividade22-01-05\\obj\\",
+      "projectUniqueName": "D:\\IFSP\\ED2I4\\AtividadeFinal-27-11-23\\AtividadeFinal-27-11-23.csproj",
+      "projectName": "AtividadeFinal-27-11-23",
+      "projectPath": "D:\\IFSP\\ED2I4\\AtividadeFinal-27-11-23\\AtividadeFinal-27-11-23.csproj",
+      "packagesPath": "C:\\Users\\roberto\\.nuget\\packages\\",
+      "outputPath": "D:\\IFSP\\ED2I4\\AtividadeFinal-27-11-23\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\josue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\roberto\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
