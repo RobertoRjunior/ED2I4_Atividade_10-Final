@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Atividade22_01_05
+namespace AtividadeFinal-27-11-23
 {
     public class Catalogo
     {
