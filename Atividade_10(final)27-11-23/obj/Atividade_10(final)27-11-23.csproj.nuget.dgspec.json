@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\IFSP\\ED2I4\\Atividade22-01-05\\Atividade22-01-05.csproj": {}
+    "D:\\IFSP\\ED2I4\\AtividadeFinal-27-11-23\\AtividadeFinal-27-11-23.csproj": {}
   },
   "projects": {
-    "D:\\IFSP\\ED2I4\\Atividade22-01-05\\Atividade22-01-05.csproj": {
+    "D:\\IFSP\\ED2I4\\AtividadeFinal-27-11-23\\AtividadeFinal-27-11-23.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IFSP\\ED2I4\\Atividade22-01-05\\Atividade22-01-05.csproj",
-        "projectName": "Atividade22-01-05",
-        "projectPath": "D:\\IFSP\\ED2I4\\Atividade22-01-05\\Atividade22-01-05.csproj",
+        "projectUniqueName": "D:\\IFSP\\ED2I4\\AtividadeFinal-27-11-23\\AtividadeFinal-27-11-23.csproj",
+        "projectName": "AtividadeFinal-27-11-23",
+        "projectPath": "D:\\IFSP\\ED2I4\\AtividadeFinal-27-11-23\\AtividadeFinal-27-11-23.csproj",
         "packagesPath": "C:\\Users\\josue\\.nuget\\packages\\",
-        "outputPath": "D:\\IFSP\\ED2I4\\Atividade22-01-05\\obj\\",
+        "outputPath": "D:\\IFSP\\ED2I4\\AtividadeFinal-27-11-23\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\josue\\AppData\\Roaming\\NuGet\\NuGet.Config",
